@@ -10,7 +10,9 @@
       "version": "0.1.0",
       "source": "github:Zatarain-Software-Services/genesis-json-tools@v0.1.0",
       "commit": "9e5ebaa9a9f47df0aafd4f3e7313fec6d12f8e11",
-      "sha256": "1cd613ede118895737d0a3306fde80627598f762cf347ecf35f60df0b54c34b0"
+      "sha256": "1cd613ede118895737d0a3306fde80627598f762cf347ecf35f60df0b54c34b0",
+      "signature": "GENESIS-SIG-1\nkeyId: V150wSILeV62J7XY36sz3g\nalg: ed25519\nsig: hQhg8c0IKPS6NQweJcSjIOOUB7Gf-h0VpHc3v2YtNhcXT9zMJ8-fbwF_VeIMCicffzibu2p7xBcevzNJex3oDQ\n"
     }
-  ]
+  ],
+  "signed": null
 }
