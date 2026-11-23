@@ -1,0 +1,11 @@
+{
+  "registry": "genesis-community",
+  "packages": [
+    {
+      "alias": "json-tools",
+      "name": "@zatarain/json-tools",
+      "description": "Defensive JSON helpers wrapping @std/json (tryParse, getString, getNumber, getBoolean, keysOf)",
+      "latest": "0.1.0"
+    }
+  ]
+}
